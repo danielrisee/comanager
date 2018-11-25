@@ -1,0 +1,27 @@
+﻿/*regla scc desde el principio asta el fiN*/
+/*body se refiere a tod el documento*/
+/*backgound se refiere a que queremos modificar del body*/
+
+/*"* selector universal y lo que hacemos es quitar los espacios"*/
+
+* {
+	margin:0;
+	padding:;
+}
+
+
+h2,h3 {
+	color:red;
+	
+}
+
+h2 {
+	font-size:50px;
+	
+}
+
+
+body {
+	background: #f2f2f2;
+	COLOR: #FFF;
+}
